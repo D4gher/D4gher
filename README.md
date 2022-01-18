@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oliver Dagher, also known as @D4gher.
-- 👀 I’m interested in the spanish culture, especially spanish code.
+- 👀 I’m interested in all type of culture and media.
 - 🌱 I’m currently learning Java Script. 
 - 💞️ I’m looking to collaborate on future projects. 
 - 📫 How to reach me? On github. 
